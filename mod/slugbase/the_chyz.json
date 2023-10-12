@@ -1,0 +1,31 @@
+{
+	"id": "Chyz",
+	"name": "The Chyz",
+	"description": "It chyz",
+	"features": {
+		"color": "FFFF00",
+		"back_spear": true,
+		"can_maul": true,
+		"auto_grab_batflies": false,
+		"tunnel_speed": [ 3, 2.8 ],
+		"climb_speed": [ 2.5, 2 ],
+		"guide_overseer": 5,
+		"perma_unlock_gates": true,
+
+		"select_menu_scene": "Slugcat_Chyz",
+		"select_menu_scene_ascended": "Ghost_Chyz",
+
+		"world_state": "Gourmand",
+		"start_room": "SB_S06r",
+
+		"diet": {
+			"base": "Gourmand",
+			"corpses": 1,
+			"meat": 1,
+			"plants": 1,
+			"overrides": {
+				"SlugCat": 10
+			}
+		}
+	}
+}

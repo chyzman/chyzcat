@@ -1,0 +1,10 @@
+﻿{
+	"id": "chyzman.chyz",
+	"name": "Chyz Scug",
+	"version": "0.1.0",
+	"authors": "chyzman",
+	"description": "It chyz",
+	"requirements": [ "slime-cubed.slugbase", "fisobs", "improved-input-config" ],
+	"requirements_names": [ "SlugBase", "Fisobs" ],
+	"tags": [ "Custom Slugcat", "Items" ]
+}
